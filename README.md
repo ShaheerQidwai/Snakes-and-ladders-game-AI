@@ -16,3 +16,6 @@ Power-up Strategy:
 
   ![image](https://github.com/user-attachments/assets/f2e961e4-1c9f-44d7-b59d-12e2a3992c1d)
 
+  ![image](https://github.com/user-attachments/assets/0140dbd9-1cf3-4b11-b07f-76f1321c2846)
+
+
