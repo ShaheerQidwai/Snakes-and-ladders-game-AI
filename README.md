@@ -13,3 +13,6 @@ Trap Placement Heuristic:
 
 Power-up Strategy: 
   AI chooses to disarm traps if any exist; otherwise, it selects an extra roll.
+
+  ![image](https://github.com/user-attachments/assets/f2e961e4-1c9f-44d7-b59d-12e2a3992c1d)
+
